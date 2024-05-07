@@ -1,0 +1,26 @@
+{
+    "userName":"manu-2",
+    "password": "manu7329vdewqfguviw68f432hjfbevsf8",
+    "abbos": [
+        "manu",
+        "Hubert69()"
+    ],
+    "follower": 4,
+    "description": "",
+    "posts": [
+        {
+            "header": "69😒",
+            "content": "👍👍👍👍👍👍👍👍👍👍👍👍👍☆*: .｡. o(≧▽≦)o .｡.:*☆╰(*°▽°*)╯(❁´◡`❁)(●'◡'●)(*/ω＼*)(^///^)",
+            "date": "2023-09-09T13:33:01.923Z",
+            "likes": 0,
+            "komments": []
+        },
+        {
+            "header": "Header...",
+            "content": "Content...",
+            "date": "2023-09-09T13:30:10.717Z",
+            "likes": 0,
+            "komments": []
+        }
+    ]
+}

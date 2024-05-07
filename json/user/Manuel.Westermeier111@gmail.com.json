@@ -1,0 +1,19 @@
+{
+    "userName": "Manuel Westermeier",
+    "password": "Wasbska39sshsaja9j2ks",
+    "abbos": [
+        "Manuel.Westermeier111@gmail.com",
+        "Manuel Westermeier"
+    ],
+    "follower": 3,
+    "description": "Die ist ein Geißler kanal",
+    "posts": [
+        {
+            "header": "Header...",
+            "content": "Content...",
+            "date": "2023-09-10T11:58:43.554Z",
+            "likes": 0,
+            "komments": []
+        }
+    ]
+}

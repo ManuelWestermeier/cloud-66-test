@@ -1,0 +1,25 @@
+{
+    "userName":"manu 12345",
+    "password": "Westermeier",
+    "abbos": [
+        "manu - Kopie (2)",
+        "Manuel.Westermeier111@gmail.com",
+        "geilerType",
+        "Manuel Westermeier",
+        "manu - Kopie (6)",
+        "Hubert69()",
+        "manu - Kopie (5)",
+        "Manu12345"
+    ],
+    "follower": 1,
+    "description": "Hallo ich bin da manu",
+    "posts": [
+        {
+            "header": "Header.",
+            "content": "Content...",
+            "date": "2023-09-11T01:15:26.128Z",
+            "likes": 0,
+            "komments": []
+        }
+    ]
+}
